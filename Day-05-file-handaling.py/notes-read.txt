@@ -1,0 +1,6 @@
+Hello, this is my first file.
+I am learning Python file handling.
+Today I learned read operation.
+Tomorrow I will learn write operation.
+Then I will learn append operation.
+Python file handling is useful.
